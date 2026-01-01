@@ -1,0 +1,3 @@
+[submodule "external/darija-translate"]
+	path = external/darija-translate
+	url = https://github.com/youssefamnay/darija-translate.git
